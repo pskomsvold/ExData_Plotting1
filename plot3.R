@@ -1,3 +1,5 @@
+#Create plot3.R
+
 ##Read data
 data <- read.table("household_power_consumption.txt", header = FALSE, col.names = 
                      c("Date", "Time", "Global_active_power", "Global_reactive_power", 

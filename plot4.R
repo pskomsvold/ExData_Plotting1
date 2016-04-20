@@ -1,4 +1,4 @@
-#Create Plot4.R
+#Create plot4.R
 
 ##Read data
 data <- read.table("household_power_consumption.txt", header = FALSE, col.names = 
